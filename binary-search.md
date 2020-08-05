@@ -1,6 +1,6 @@
 #### implement binary search
 
-```
+```js
 const arr = [1, 3, 5, 7, 9, 10, 11, 12, 14, 15, 19, 20];
 function binarySearch(arr, val) {
   var low = 0,

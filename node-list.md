@@ -1,6 +1,6 @@
 #### implement node list
 
-```
+```js
 function Node(value) {
   this.value = value;
   this.next = null;
@@ -43,5 +43,4 @@ class Nodelist {
     this.last.next = new Node(value);
   }
 }
-
 ```
