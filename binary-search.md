@@ -1,4 +1,4 @@
-####implement binary search
+#### implement binary search
 
 ```
 const arr = [1, 3, 5, 7, 9, 10, 11, 12, 14, 15, 19, 20];

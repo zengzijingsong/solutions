@@ -1,6 +1,6 @@
-##Implement sort
+## Implement sort
 
-####select sort
+#### select sort
 
 ```
 function selectSort(arr) {
@@ -37,7 +37,7 @@ function insertSort(arr) {
 }
 ```
 
-####merge sort
+#### merge sort
 
 ```
 function mergeSort(arr) {
@@ -70,7 +70,7 @@ function merge(left, right) {
 }
 ```
 
-####quick sort
+#### quick sort
 
 ```
 function partition(arr, left, right) {
