@@ -2,7 +2,7 @@
 
 #### select sort
 
-```
+```js
 function selectSort(arr) {
   const len = arr.length;
   for (let i = 0; i < len; i++) {
@@ -20,7 +20,7 @@ function selectSort(arr) {
 
 ####insert sort
 
-```
+```js
 function insertSort(arr) {
   var len = arr.length;
   var preIndex, current;
@@ -39,7 +39,7 @@ function insertSort(arr) {
 
 #### merge sort
 
-```
+```js
 function mergeSort(arr) {
   var len = arr.length;
   if (len < 2) {
@@ -72,7 +72,7 @@ function merge(left, right) {
 
 #### quick sort
 
-```
+```js
 function partition(arr, left, right) {
   var pivot = left,
     index = pivot + 1;
